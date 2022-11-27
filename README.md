@@ -9,5 +9,7 @@
 * [pow.c](https://github.com/CehhGhost/ABC3/blob/main/C%20code/pow.c)
 ### 2)  В полученную ассемблерную программу, откомпилированную без оптимизирующих и отладочных опций, добавлены комментарии, поясняющие
 эквивалентное представление переменных в программе на C:
-* [main.s](https://github.com/CehhGhost/ABC2/blob/main/Assembled/main.s)
-* [get_maxsymb_and_minsymb.s](https://github.com/CehhGhost/ABC2/blob/main/Assembled/get_maxsymb_and_minsymb.s)
+* [main.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled/main.s)
+* [get_chx.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled/get_chx.s)
+* [fact.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled/fact.s)
+* [pow.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled/pow.s)
