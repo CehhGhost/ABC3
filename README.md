@@ -15,5 +15,7 @@
 * [pow.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled/pow.s)
 ### 3) Из ассемблерной программы убраны лишние макросы за счет использования соответствующих аргументов командной строки и/или за счет
 ручного редактирования исходного текста ассемблерной программы:
-* [main_updated.s](https://github.com/CehhGhost/ABC2/blob/main/Assembeld%20updated/main_updated.s)
-* [get_maxsymb_and_minsymb_updated.s](https://github.com/CehhGhost/ABC2/blob/main/Assembeld%20updated/get_maxsymb_and_minsymb_updated.s)
+* [main_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/main_updated.s)
+* [get_chx_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/get_chx_updated.s)
+* [fact_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/fact_updated.s)
+* [pow_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/pow_updated.s)
