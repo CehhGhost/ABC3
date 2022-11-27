@@ -56,5 +56,5 @@
 * [pow_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/pow_updated.s)
 ### 2) Файл с входными данными(программа содержит проверку на корректность введенных фалов в консоль(см тесты)) - [input.txt](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/input.txt), файл с выходными данными - [output.txt](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/output.txt)
 ## Тестирование
-> [ссылка на тесты](https://github.com/CehhGhost/ABC2/blob/main/tests.md)
+> [ссылка на тесты](https://github.com/CehhGhost/ABC3/blob/main/tests.md)
 > <br> При просмотре тестов можно заметить, что программа до модификаций и после работает одинаково и без ошибок => модификации установленны верно, а также что программа корректно считывает из входного файла и записывает в выходной файл
