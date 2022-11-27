@@ -23,9 +23,9 @@
 ## <br> На 5 баллов:
 ### 1) В реализованной программе использовать функции с передачей данных через параметры и использованны локальные переменные:
 В программе используются локальные переменные (например int flag), присутствуют три функции с передачей данных через параметры:
-* extern double get_chx(int x, double epsilon);
-* extern double fact(int n);
-* extern double pow(double x, double n);
+* get_chx(int x, double epsilon);
+* fact(int n);
+* pow(double x, double n);
 ### 2) В программу добавленны комментарии, описывающие передачу фактических параметров, перенос возвращаемого результата и связь между параметрами языка Си и регистрами (стеком)
 * [main_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/main_updated.s)
 * [get_chx_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/get_chx_updated.s)
