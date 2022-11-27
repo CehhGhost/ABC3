@@ -39,3 +39,8 @@
 > * r12d
 #### В pow:
 > * r12d
+### 2) В программу добавленны комментарии, поясняющие эквивалентное использование регистров вместо переменных исходной программы на C
+* [main_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/main_updated.s)
+* [get_chx_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/get_chx_updated.s)
+* [fact_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/fact_updated.s)
+* [pow_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/pow_updated.s)
