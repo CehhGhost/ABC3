@@ -20,3 +20,10 @@
 * [fact_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/fact_updated.s)
 * [pow_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/pow_updated.s)
 #### [Список изменений](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/Changes.md)
+## <br> На 5 баллов:
+### 1) В реализованной программе использовать функции с передачей данных через параметры и использованны локальные переменные:
+В программе используются локальные переменные (например int size), присутствует одна функция с передачей данных через параметры:
+* get_maxsymb_and_minsymb(const char *line, int size, char* min, char* max)
+### 2) В программу добавленны комментарии, описывающие передачу фактических параметров, перенос возвращаемого результата и связь между параметрами языка Си и регистрами (стеком)
+* [main_updated.s](https://github.com/CehhGhost/ABC2/blob/main/Assembeld%20updated/main_updated.s)
+* [get_maxsymb_and_minsymb_updated.s](https://github.com/CehhGhost/ABC2/blob/main/Assembeld%20updated/get_maxsymb_and_minsymb_updated.s)
