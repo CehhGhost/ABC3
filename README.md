@@ -44,6 +44,10 @@
 * [get_chx_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/get_chx_updated.s)
 * [fact_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/fact_updated.s)
 * [pow_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/pow_updated.s)
+### 3) Сопоставление размеров файлов result и result_updated(итоговые сборки до модификаций и после соответственно):
+* result = 16,9 КБ (17 304 б)
+* result_updated = 16,8 КБ (17 248 б)
+> <br> При просмотре тестов можно заметить, что после модификаций размер итогового фала уменьшился, на что мы и рассчитывали
 ## <br> На 7 баллов:
 ### 1) Реализация программы на ассемблере, полученной после рефакторинга, в виде двух или более единиц компиляции (main_updated.s, get_chx_updated.s, fact_updated.s, pow_updated.s):
 * [main_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/main_updated.s)
