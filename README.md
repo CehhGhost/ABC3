@@ -50,3 +50,4 @@
 * [get_chx_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/get_chx_updated.s)
 * [fact_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/fact_updated.s)
 * [pow_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/pow_updated.s)
+### 2) Файл с входными данными - [input.txt](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/input.txt), файл с выходными данными - [output.txt](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/output.txt)
