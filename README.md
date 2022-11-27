@@ -7,3 +7,7 @@
 * [get_chx.c](https://github.com/CehhGhost/ABC3/blob/main/C%20code/get_chx.c)
 * [fact.c](https://github.com/CehhGhost/ABC3/blob/main/C%20code/fact.c)
 * [pow.c](https://github.com/CehhGhost/ABC3/blob/main/C%20code/pow.c)
+### 2)  В полученную ассемблерную программу, откомпилированную без оптимизирующих и отладочных опций, добавлены комментарии, поясняющие
+эквивалентное представление переменных в программе на C:
+* [main.s](https://github.com/CehhGhost/ABC2/blob/main/Assembled/main.s)
+* [get_maxsymb_and_minsymb.s](https://github.com/CehhGhost/ABC2/blob/main/Assembled/get_maxsymb_and_minsymb.s)
