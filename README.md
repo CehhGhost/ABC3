@@ -44,3 +44,9 @@
 * [get_chx_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/get_chx_updated.s)
 * [fact_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/fact_updated.s)
 * [pow_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/pow_updated.s)
+## <br> На 7 баллов:
+### 1) Реализация программы на ассемблере, полученной после рефакторинга, в виде двух или более единиц компиляции (main_updated.s, get_chx_updated.s, fact_updated.s, pow_updated.s):
+* [main_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/main_updated.s)
+* [get_chx_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/get_chx_updated.s)
+* [fact_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/fact_updated.s)
+* [pow_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/pow_updated.s)
