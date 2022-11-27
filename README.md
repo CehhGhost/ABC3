@@ -51,3 +51,6 @@
 * [fact_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/fact_updated.s)
 * [pow_updated.s](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/pow_updated.s)
 ### 2) Файл с входными данными - [input.txt](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/input.txt), файл с выходными данными - [output.txt](https://github.com/CehhGhost/ABC3/blob/main/Assembled_updated/output.txt)
+## Тестирование
+> [ссылка на тесты](https://github.com/CehhGhost/ABC2/blob/main/tests.md)
+> <br> При просмотре тестов можно заметить, что программа корректно считывает из входного файла и записывает в выходной файл
